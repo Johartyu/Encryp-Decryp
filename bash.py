@@ -28,7 +28,7 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}DELTA PROJECT
+   HZM            MMMM    {}Coded by {}: {}JOHAR TYU
 {}   FqM            MMMM   {}MENU    {}: {}ENCRYPT & DECRYPT
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
